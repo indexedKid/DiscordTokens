@@ -1,4 +1,3 @@
 # w0k's Cheap Discord Shop
-Cheap Discord tokens can be found in my store [here](https://sellix.io/w0k).
-
-You can also join my Discord server for support [here](https://discord.com/invite/d2mrmuCjeP).
+Cheap Discord tokens can be found in my [store](https://sellix.io/w0k).
+[join](https://discord.com/invite/d2mrmuCjeP) my Discord server for support.
