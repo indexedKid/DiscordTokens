@@ -5,9 +5,7 @@
 
 - Cheap Discord tokens can be found in my [store](https://sellix.io/w0k).
 - [Join](https://discord.com/invite/d2mrmuCjeP) my Discord server for support.
-
-  
-https://i.imgur.com/WrNScVo.png
+- 
 ## Characteristics
 - Real Avatar
 - Real Usernames!
