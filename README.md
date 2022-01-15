@@ -1,8 +1,12 @@
 # w0k's Cheap Discord Shop
+<div align="center">
+  <a href="https://sellix.io/w0k"><img src="https://i.imgur.com/WrNScVo.png" alt="Logo" width="120" height="120">
+  </a>
 - Cheap Discord tokens can be found in my [store](https://sellix.io/w0k).
-- [Join](https://discord.com/invite/d2mrmuCjeP) my Discord server for support. ![xdd](https://user-images.githubusercontent.com/97486559/149623394-1348381c-f2a0-4059-a5b7-71b9fdffd14a.png)
+- [Join](https://discord.com/invite/d2mrmuCjeP) my Discord server for support.
 
-
+  
+https://i.imgur.com/WrNScVo.png
 ## Characteristics
 - Real Avatar
 - Real Usernames!
